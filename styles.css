@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+body{
+	background-color:gray;
+}
+.container{
+	display:flex;
+	flex-direction:column;
+}
